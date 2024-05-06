@@ -1,4 +1,4 @@
- [![DRN](https://img.shields.io/static/v1?label=𝖵𝖤𝖭𝖮𝖬&❤️&message=𝖣𝖠𝖱𝖲𝖧𝖴&color=white)](https://telegram.me/vdmoviez)
+ [![DRN](https://img.shields.io/static/v1?label=𝖵𝖤𝖭𝖮𝖬❤️&message=𝖣𝖠𝖱𝖲𝖧𝖴&color=yellow)](https://telegram.me/vdmoviez)
  
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝖧𝗂👋🏻+𝖨'𝗆+𝖵𝖾𝗇𝗈𝗆+𝖣𝖺𝗋𝗌𝗁𝗎!)
